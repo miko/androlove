@@ -246,9 +246,9 @@ function love.phone.update(dt)
   end
 end
 
-require 'android.AccelerometerSensor'
-require 'android.MagneticFieldSensor'
-require 'android.OrientationSensor'
-require 'android.ProximitySensor'
-require 'android.LightSensor'
+require 'androlove.AccelerometerSensor'
+require 'androlove.MagneticFieldSensor'
+require 'androlove.OrientationSensor'
+require 'androlove.ProximitySensor'
+require 'androlove.LightSensor'
 
